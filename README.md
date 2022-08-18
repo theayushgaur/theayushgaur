@@ -1,4 +1,4 @@
-<h1 align=“center”>Hey there, Ayush this side</h1>
+<h1 align=“center”>Hey there, Ayush Here✌🏻</h1>
 <h3 align="center">A 20 year old Computer Science undergrad</h3>
 <img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,11 +12,11 @@
 
 - 📝 I regularly study articles on the principles of electric components and aerodynamics in motor sports.
 
-- 💬 Ask me about **Anything i would be always ready to help**
+- 💬 Ask me about **anything i would always be ready to help**
 
 - You can reach me out at **theayushgaur@gmail.com**
 
-- ⚡ Fun fact **An Android Developer trying to slide into Motorsports😉**
+- ⚡ Fun fact **an Android Developer trying to slide into Motorsports😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
