@@ -1,3 +1,4 @@
+![Matrix SVG](https://iili.io/gEajS9.png)
 <p>
   <h1 align="center"><b>Hello there, I'm Ayush 👋</b></h1>
 </p>
