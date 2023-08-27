@@ -2,7 +2,7 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Ayush 👋</b></h1>
 </p>
-<h3 align="center">A 20 year old Computer Science undergrad</h3>
+<h3 align="center">A 21 year old Computer Science undergrad</h3>
 
 
 <p align="center">
@@ -19,13 +19,13 @@
 
 
 - 🔭 I’m currently working on **Android Auto Apps**
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently working as a **Flutter Development**
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🧗 I try to: Go beyond and push the bounds
 - 📝 I regularly study articles on the principles of electric components and aerodynamics in motor sports.
 - 💬 Ask me about **anything i would always be ready to help**
 - You can reach me out at **theayushgaur@gmail.com**
-- ⚡ Fun fact **an Android Developer trying to slide into Motorsports😉**
+- ⚡ Fun fact **a Flutter and Java Developer trying to slide into Motorsports😉**
 
 <br>
 
