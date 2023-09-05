@@ -18,7 +18,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Android Auto Apps**
+- 🔭 I’m currently working at **Aural**
 - 🌱 I’m currently working as a **Flutter Development**
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🧗 I try to: Go beyond and push the bounds
